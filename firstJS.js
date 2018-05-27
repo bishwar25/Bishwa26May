@@ -31,5 +31,5 @@ console.log(method1)
 var method1=function(){
     console.log("Hello")
 }
-//console.log(method1)
-method1()
+console.log(method1)
+//method1()
